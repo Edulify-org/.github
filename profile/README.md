@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Your school day, organized in one place.
+Loved by early testers • No ads • PWA (Offline support)
 <!--
 
 **Here are some ideas to get you started:**
